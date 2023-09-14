@@ -1,4 +1,4 @@
-# word_sense_induciton
+# word_sense_induction
 
 The repository includes code used in bachelor thesis with  the title: Word sense induction in Slovene using large language models.
 
